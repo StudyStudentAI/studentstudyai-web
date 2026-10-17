@@ -42,4 +42,7 @@
 
 Made by **StudyStudentAI** 🇦🇺
 
+© 2026 StudyStudentAI. All rights reserved.<br>
+This code and website may not be copied, modified, reused or redistributed without written permission.
+
 </div>
