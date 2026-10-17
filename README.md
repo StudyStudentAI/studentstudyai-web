@@ -38,22 +38,6 @@
 
 ---
 
-## 🛠️ Built with
-
-| Part | Tech |
-| --- | --- |
-| App & website | Expo / React Native |
-| Backend | Python + FastAPI (hosted on Render) |
-| Database | PostgreSQL (hosted on Neon, Sydney) |
-| AI | OpenAI GPT-4o mini |
-| Website hosting | GitHub Pages |
-
----
-
-## ℹ️ About this repo
-
-This repository holds the **built website files** that GitHub Pages serves. The app's source code and backend are kept in separate private repositories.
-
 <div align="center">
 
 Made by **StudyStudentAI** 🇦🇺
