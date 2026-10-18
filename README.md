@@ -41,8 +41,6 @@
 
 **On iPhone:** open the website in Safari, tap **Share → Add to Home Screen**.
 
-> **Tip:** If nobody has used the app for a while, the first load can take up to a minute while the server wakes up. After that it's fast.
-
 ---
 
 <div align="center">
