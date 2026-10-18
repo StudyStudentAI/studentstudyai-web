@@ -6,7 +6,10 @@
 
 ### 👉 [Open StudentStudyAI](https://studystudentai.github.io/studentstudyai-web/) 👈
 
+### 📱 [Download the Android app](https://github.com/StudyStudentAI/studentstudyai-web/releases/latest)
+
 [![Website](https://img.shields.io/badge/Website-Live-brightgreen?style=for-the-badge)](https://studystudentai.github.io/studentstudyai-web/)
+[![Android](https://img.shields.io/badge/Android-Download%20APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/StudyStudentAI/studentstudyai-web/releases/latest)
 ![Platform](https://img.shields.io/badge/Platform-Web%20%7C%20Android-blue?style=for-the-badge)
 ![Price](https://img.shields.io/badge/Price-Free-purple?style=for-the-badge)
 
@@ -33,6 +36,10 @@
 2. Tap **Sign up** and make a free account
 3. Upload your notes from the **Documents** page
 4. Read your summary, take the quiz and follow your study calendar
+
+**On Android:** download the APK from **[Releases](https://github.com/StudyStudentAI/studentstudyai-web/releases/latest)**, open it on your phone to install, and log in with the same account. If Android asks, allow installing apps from your browser. The app updates itself automatically.
+
+**On iPhone:** open the website in Safari, tap **Share → Add to Home Screen**.
 
 > **Tip:** If nobody has used the app for a while, the first load can take up to a minute while the server wakes up. After that it's fast.
 
