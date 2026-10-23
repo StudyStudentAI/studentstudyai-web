@@ -50,4 +50,7 @@ Made by **StudyStudentAI** 🇦🇺
 © 2026 StudyStudentAI. All rights reserved.<br>
 This code and website may not be copied, modified, reused or redistributed without written permission.
 
+<br><br>
+<a href="https://www.dmca.com/Protection/Status.aspx?ID=0eda66ce-b5ae-4f61-8f41-6032a7e063b8" title="DMCA.com Protection Status"><img src="https://images.dmca.com/Badges/dmca-badge-w100-2x1-03.png?ID=0eda66ce-b5ae-4f61-8f41-6032a7e063b8" alt="DMCA.com Protection Status" /></a>
+
 </div>
