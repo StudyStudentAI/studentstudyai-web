@@ -1,9 +1,3 @@
-# Publishes the website to GitHub Pages.
-# The built site lives in the private repo StudyStudentAI/studentstudyai-site
-# (read with a read-only deploy key stored as the SITE_DEPLOY_KEY secret);
-# this repo only holds the README, the Android app download (Releases) and this file.
-# Run it after pushing a new build to studentstudyai-site:
-#   gh workflow run deploy.yml -R StudyStudentAI/studentstudyai-web
 name: Deploy website
 
 on:
